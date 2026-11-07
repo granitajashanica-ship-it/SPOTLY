@@ -1,4 +1,4 @@
-# SPOTLY — Gjej vendin tënd të radhës!
+# SPOTLY — Gjej vendin tënd !
 
 ##  Përshkrimi i Projektit
 **SPOTLY** është një aplikacion ueb modern i zhvilluar për të ndihmuar përdoruesit në zgjidhjen e dilemës së përditshme: *"Ku të shkojmë sot?"*. Platforma u mundëson individëve, grupeve të shoqërisë dhe familjeve të zbulojnë e të eksplorojnë vendet më të mira në qytete të ndryshme të Kosovës për t'u argëtuar, për të pirë kafe, apo për të kaluar kohë cilësore.
