@@ -5,8 +5,10 @@ Ky projekt është zhvilluar në kuadër të lëndës "Programimi në Ueb nga An
 
 ## Anëtarët e Grupit
 - Granita Jashanica (Lead)
-- [Emri i Kolegut 1]
-- [Emri i Kolegut 2]
+- Fjolla Sherifi
+- Elmedina Berjani
+- Elmedina Shala
+- Eda Mekolli
 
 ## Teknologjitë e Përdorura
 - HTML5
