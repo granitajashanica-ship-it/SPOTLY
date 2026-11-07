@@ -7,7 +7,7 @@ Përmes një sistemi intuitiv filtrimi, përdoruesit mund të gjejnë me lehtës
 
 ---
 
-## 🚀 Veçoritë Kryesore (Features)
+## Veçoritë Kryesore (Features)
 - 🏙️ **Filtrimi sipas Qyteteve:** Kërkim i shpejtë i vendeve nëpër qytetet e Kosovës.
 - 💰 **Filtrimi sipas Buxhetit:** Zgjedhje e lokacioneve që i përshtaten mundësive financiare (ekonomike, mesatare, premium).
 - 👥 **Përshtatja sipas Grupit:** Rekomandime të specializuara bazuar në numrin e personave (për një person, çift, grup shoqëror apo familje).
@@ -32,4 +32,4 @@ Përmes një sistemi intuitiv filtrimi, përdoruesit mund të gjejnë me lehtës
 ---
 
 ## 🎓 Rreth Lëndës
-Ky projekt është zhvilluar në kuadër të lëndës **Programimi në Ueb nga Ana e Klientit** në Fakultetin e Inxhinierisë Elektrike dhe Kompjuterike (FIEK), Universiti i Prishtinës.
+Ky projekt është zhvilluar në kuadër të lëndës **Programimi në Ueb nga Ana e Klientit** 
