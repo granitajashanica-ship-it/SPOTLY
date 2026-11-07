@@ -1,7 +1,7 @@
 # SPOTLY
 
 ## Përshkrimi i Projektit
-Ky projekt është zhvilluar në kuadër të lëndës "Programimi në Ueb nga Ana e Klientit" në FIEK.
+Ky projekt është zhvilluar në kuadër të lëndës "Programimi në Ueb nga Ana e Klientit" .
 
 ## Anëtarët e Grupit
 - Granita Jashanica (Lead)
