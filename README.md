@@ -16,13 +16,13 @@ Përmes një sistemi intuitiv filtrimi, përdoruesit mund të gjejnë me lehtës
 
 ---
 
-## 🛠️ Teknologjitë e Përdorura
+## Teknologjitë e Përdorura
 - **Front-end:** HTML5, CSS3, JavaScript/ React.js
 - **Version Control:** Git & GitHub
 
 ---
 
-## 👥 Anëtarët e Grupit
+## Anëtarët e Grupit
 - **Granita Jashanica** — *Project Lead & Developer*
 - **Fjolla Sherifi** -*Developer*
 - **Elmedina Berjani** -*Developer*
@@ -31,5 +31,5 @@ Përmes një sistemi intuitiv filtrimi, përdoruesit mund të gjejnë me lehtës
 
 ---
 
-## 🎓 Rreth Lëndës
+## Rreth Lëndës
 Ky projekt është zhvilluar në kuadër të lëndës **Programimi në Ueb nga Ana e Klientit** 
